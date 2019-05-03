@@ -124,7 +124,7 @@
             "48": "extension/img/48g.png",
             "128": "extension/img/128g.png"
         },
-        "default_popup": "popup/popup.html"
+        "default_popup": "popup.html"
     },
     "permissions": [
         "https://www.youtube.com/",
